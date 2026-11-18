@@ -1,0 +1,801 @@
+industry_vertical,funding_records,unique_startups,total_funding,median_funding
+Consumer Internet,942,835,6254084245.0,1000000.0
+Technology,478,453,2229707930.0,1500000.0
+Ecommerce,258,216,7163710608.0,2350000.0
+,171,167,1231811368.0,1500000.0
+Healthcare,71,71,418218000.0,3000000.0
+Finance,62,58,1971438000.0,6240000.0
+E-Commerce,41,40,1082683084.54,10050000.0
+Logistics,32,31,242845000.0,6000000.0
+Education,24,24,301143000.0,1500000.0
+Food & Beverage,23,22,42236000.0,1500000.0
+Ed-Tech,15,15,35548640.0,772500.0
+Fintech,10,10,1224211265.0,15250000.0
+It,8,8,33880000.0,2100000.0
+Others,6,6,19188000.0,1574000.0
+Health And Wellness,6,6,490686000.0,9000000.0
+Fin-Tech,6,6,140700000.0,4600000.0
+Food And Beverage,6,5,22828995.0,5600000.0
+Real Estate,6,6,29500000.0,4000000.0
+Online Education Platform,5,5,17000000.0,5000000.0
+Online Food Delivery,5,4,121500000.0,3500000.0
+Logistics Tech,5,4,32680000.0,8750000.0
+Edtech,5,5,157947425.0,1000000.0
+Hyperlocal Handyman Services,4,3,5650000.0,1200000.0
+Saas,4,4,216000000.0,38000000.0
+Food Delivery Platform,4,4,4850000.0,2425000.0
+Transport,4,4,152000000.0,1000000.0
+Transportation,4,3,3916632394.0,6524197.0
+Food,3,3,10500000.0,1300000.0
+Information Technology,3,3,41580000.0,2500000.0
+Food And Beverages,3,3,300311200.0,100000000.0
+Food & Beverages,3,3,3175000.0,1587500.0
+Services,3,3,3900000.0,1950000.0
+Big Data & Analytics Platform,3,3,43000000.0,11000000.0
+Automobile,3,3,164000000.0,51000000.0
+Fmcg,3,3,520000.0,260000.0
+Social Media,3,3,5991375.0,1700000.0
+Auto,2,2,0.0,
+Cab Rental Mobile App,2,1,225000000.0,225000000.0
+Job Search Platform,2,2,760000.0,380000.0
+Customer Engagement Platform,2,2,625000.0,625000.0
+B2B,2,2,587000000.0,293500000.0
+Car & Bike Ecommerce Platform,2,2,0.0,
+Interface Development Platform For Government Officials,2,1,0.0,
+Digital / Mobile Wallet,2,2,25165000.0,12582500.0
+Logistics Tech Platform,2,2,1610000.0,805000.0
+Health-Tech Platform,2,2,1305000.0,652500.0
+Health & Fitness App,2,1,0.0,
+Hyper-Local Online/Mobile Grocery,2,2,45000000.0,22500000.0
+Consumer Goods,2,2,500000.0,500000.0
+Health Care,2,2,2500000.0,2500000.0
+Fashion Discovery Platform,2,2,15350000.0,7675000.0
+Internet Of Things Platform,2,2,311000.0,155500.0
+Last Mile Transportation,2,2,283300000.0,141650000.0
+Hyperlocal Delivery Platform,2,2,0.0,
+Beauty And Wellness Platform,2,2,0.0,
+Mobile Fitness App,2,2,1000000.0,1000000.0
+Online Budget Hotel Chain,2,1,45000000.0,22500000.0
+Online Education Marketplace,2,2,1000000.0,1000000.0
+Agriculture,2,2,3239034.68,1619517.34
+Digital Media,2,2,15539700.0,7769850.0
+Online Food Ordering & Delivery Platform,2,2,300000.0,150000.0
+Online Food Ordering & Delivery Service,2,2,1150000.0,575000.0
+Online Grocery Platform,2,2,1800000.0,1800000.0
+Gaming,2,2,50500000.0,25250000.0
+Online Logistics Platform,2,1,5000000.0,5000000.0
+Online Marketplace,2,2,700143000.0,350071500.0
+Online Payment Gateway,2,1,9000000.0,9000000.0
+Electric Scooter Manufacturer,2,2,12000000.0,12000000.0
+Inspiration,2,2,200000.0,200000.0
+Preventive Healthcare Services,2,2,350000.0,350000.0
+Hyperlocal Services Marketplace,2,2,10000000.0,10000000.0
+Residential Rental Management Platform,2,2,640000.0,640000.0
+Home Services Marketplace,2,1,26500000.0,13250000.0
+Online Hiring Platform,2,2,0.0,
+Financial Tech,2,2,3400000.0,3400000.0
+Software,2,2,179500000.0,89750000.0
+Tech,2,2,21750000.0,10875000.0
+Hospitality,2,2,250000000.0,125000000.0
+Hyperlocal Grocery Delivery,2,2,36000000.0,36000000.0
+Crowd Funding Platform,2,1,1400000.0,700000.0
+Travel Tech,2,2,5800000.0,2900000.0
+Two-Wheeler Taxi Service,2,2,1450000.0,1450000.0
+Used Car Marketplace,2,2,5500000.0,2750000.0
+Waste Management Service,2,2,26868600.0,13434300.0
+Automated Storage & Warehousing Solution,1,1,30000000.0,30000000.0
+Automation,1,1,300000000.0,300000000.0
+Automotive,1,1,37000000.0,37000000.0
+Automotive Services Platform,1,1,0.0,
+Autorickshaw Aggregator & Booking Platform,1,1,10000000.0,10000000.0
+B2B Ecommerce Marketplace,1,1,5000000.0,5000000.0
+B2B Logistics Delivery Platform,1,1,0.0,
+B2B Marketing,1,1,26000000.0,26000000.0
+B2B Marketplace For Industrial Goods,1,1,0.0,
+B2B Merchandize Platform,1,1,303000.0,303000.0
+B2B Mobile Auction Marketplace,1,1,450000.0,450000.0
+B2B Platform,1,1,225000000.0,225000000.0
+B2B-Focused Foodtech Startup,1,1,12000000.0,12000000.0
+B2C Messaging App,1,1,3000000.0,3000000.0
+Banking Analytics Platform,1,1,15000000.0,15000000.0
+Beauty & Lifestyle Mobile Marketplace,1,1,2000000.0,2000000.0
+Beauty & Lifestyle Platform,1,1,0.0,
+Beauty & Wellness Mobile App,1,1,0.0,
+Beauty & Wellness Products E-Tailer,1,1,9500000.0,9500000.0
+Beauty & Wellness Services Marketplace,1,1,0.0,
+Beauty And Wellness Marketplace,1,1,1000000.0,1000000.0
+Beauty Services Mobile Marketplace,1,1,0.0,
+Bespoke Merchandize Marketplace,1,1,250000.0,250000.0
+Bfsi,1,1,0.0,
+Big Data & Analytics Services,1,1,35000000.0,35000000.0
+Big Data & Predictive Analysis Platform,1,1,0.0,
+Big Data Analytics Platform,1,1,0.0,
+Big Data Management Platform,1,1,5000000.0,5000000.0
+Bike Rental Platform,1,1,790000.0,790000.0
+"Bike, Appliances Renting Marketplace",1,1,0.0,
+Brain Games Platform,1,1,0.0,
+Brand Licensing Startup,1,1,0.0,
+Branded Budget Hotel Marketplace,1,1,300000.0,300000.0
+Branded Food Products Online Sales,1,1,600000.0,600000.0
+Budget Accommodation Aggregator,1,1,3000000.0,3000000.0
+Budget Accommodation Platform,1,1,1000000.0,1000000.0
+Budget Hotel Accommodation,1,1,100000000.0,100000000.0
+Budget Hotel Accommodation Brand,1,1,100000000.0,100000000.0
+Budget Hotels Aggregator,1,1,500000.0,500000.0
+Bus Aggregation And Rental Mobile App,1,1,750000.0,750000.0
+Business And It Consulting,1,1,63000000.0,63000000.0
+Business Intelligence & Analytics,1,1,2400000.0,2400000.0
+Business It Intelligence Services,1,1,0.0,
+Business Messaging App,1,1,16000000.0,16000000.0
+Cab Aggregator,1,1,400000000.0,400000000.0
+Cab Booking App Platform,1,1,30000000.0,30000000.0
+Cab Search Comparison & Booking Platform,1,1,200000.0,200000.0
+Cab Sharing Service Mobile App,1,1,100000.0,100000.0
+Car Aggregator & Retail Mobile App,1,1,500000000.0,500000000.0
+Car Maintenance & Management Mobile App,1,1,100000.0,100000.0
+Career Community For Women,1,1,770000.0,770000.0
+Career Development,1,1,250000.0,250000.0
+Casual Dating App,1,1,0.0,
+Celebrity Fashion Brand,1,1,7500000.0,7500000.0
+Chain Of Tea Caf\\Xc3\\Xa9\\Xe2\\X80\\X99S,1,1,1000000.0,1000000.0
+Character Merchandize Sales Platform,1,1,540000.0,540000.0
+Chat Based Personal Assistant App,1,1,0.0,
+Chinese Food Delivery,1,1,168000.0,168000.0
+Citizens Engagement Platform,1,1,0.0,
+Clean Tech,1,1,0.0,
+Clean-Tech,1,1,293000.0,293000.0
+Clinical Genomics Provider,1,1,20000000.0,20000000.0
+Cloud Based Collaboration Platform,1,1,100000.0,100000.0
+Cloud Based Hotel Sales Platform,1,1,0.0,
+Cloud Data Integration Platform,1,1,2000000.0,2000000.0
+Cloud Enterprise Mobility Platform,1,1,0.0,
+Cloud Enterprise Software,1,1,6000000.0,6000000.0
+Cloud Software Solutions,1,1,45000000.0,45000000.0
+Cloud-Based Hotel Booking Platform,1,1,2000000.0,2000000.0
+Clud Based Learning Platform,1,1,0.0,
+Community Driven News/Views Platform,1,1,600000.0,600000.0
+Competitive Exam Learning Platform,1,1,2000000.0,2000000.0
+Compliance,1,1,145000.0,145000.0
+Consumer Interne,1,1,0.0,
+Consumer Lending Marketplace,1,1,0.0,
+Consumer Portal,1,1,120000.0,120000.0
+Consumer Technology,1,1,10000000.0,10000000.0
+Content Discovery & Reward Points Platform,1,1,0.0,
+Content Management Software Solutions,1,1,0.0,
+Content-Based Subscription Ecommerce Platform,1,1,0.0,
+Conversational Commerce Mobile App,1,1,2500000.0,2500000.0
+Corporate Wellness App,1,1,1000000.0,1000000.0
+Coupon Aggregator Platform,1,1,20000.0,20000.0
+Coupons And Cashback Aggregator App,1,1,125000.0,125000.0
+Credit Card Fraud Protection Solutions,1,1,7500000.0,7500000.0
+Credit Management Services,1,1,2500000.0,2500000.0
+Cricket Management Mobile Game,1,1,250000.0,250000.0
+Crm / Analytics Platform,1,1,1000000.0,1000000.0
+Cross-Channel Crm Platform,1,1,4000000.0,4000000.0
+Cross-Device Retargeting Platform,1,1,1200000.0,1200000.0
+Crowdsourced Delivery Platform,1,1,0.0,
+Curated Freelancer Marketplace,1,1,0.0,
+Custom Furniture Marketplace,1,1,395000.0,395000.0
+Custom Made Furniture E-Tailer,1,1,4500000.0,4500000.0
+Custom Merchandize Platform,1,1,1000000.0,1000000.0
+Customer Service,1,1,45000000.0,45000000.0
+Customer Service Platform,1,1,51000000.0,51000000.0
+Dairy Based Product Manufacturer,1,1,1800000.0,1800000.0
+Data Analytics Platform,1,1,4200000.0,4200000.0
+Data Center Software Platform,1,1,15000000.0,15000000.0
+Data Driven Publishing Platform,1,1,3300000.0,3300000.0
+Data Driven Recruitment Recommendation,1,1,5000000.0,5000000.0
+Data Science & Ux Design Learning Platform,1,1,1700000.0,1700000.0
+Deep Learning Cloud Algorithms,1,1,1000000.0,1000000.0
+Deep-Tech,1,1,2500000.0,2500000.0
+Delivery & Logistics Service Provider,1,1,20000000.0,20000000.0
+Dental Clinic Chain,1,1,8200000.0,8200000.0
+Designer Fashion Jewellery Marketplace,1,1,7500000.0,7500000.0
+Designer Merchandize Marketplace,1,1,0.0,
+Developer Portfolio Showcase Platform,1,1,70000.0,70000.0
+Device Repair Svcs,1,1,200000.0,200000.0
+Diagnostic Labs Aggregator Platform,1,1,150000.0,150000.0
+Digital & Physical Publishing Platform,1,1,2250000.0,2250000.0
+Digital Analytics Platform,1,1,500000.0,500000.0
+"Digital Coupons, Deal & Cashback Aggregator App",1,1,0.0,
+Digital Healthcare,1,1,2000000.0,2000000.0
+Digital Intelligent Learning Platform,1,1,250000.0,250000.0
+Digital Marketing Automation Solution,1,1,0.0,
+Digital Marketing Services,1,1,140000.0,140000.0
+Digital Media Platform,1,1,0.0,
+Digital Media Publishing Platform,1,1,0.0,
+Digital Signal Processing Platform,1,1,1000000.0,1000000.0
+Doctor Appointment Booking App,1,1,90000000.0,90000000.0
+Doctor Consultancy Mobile App,1,1,0.0,
+Doctors Network Mobile App,1,1,0.0,
+Document Digitization Platform,1,1,230000.0,230000.0
+Domestic Help Aggregation Platform,1,1,150000.0,150000.0
+E-Commerce & M-Commerce Platform,1,1,680000000.0,680000000.0
+E-Learning Service Provider,1,1,3000000.0,3000000.0
+E-Tech,1,1,200000000.0,200000000.0
+Early Cancer Detection Solutions,1,1,3000000.0,3000000.0
+Easy Business Loans Platform,1,1,0.0,
+Ecommece,1,1,1000000.0,1000000.0
+Ecommerce Brands\\Xe2\\X80\\X99 Full Service Agency,1,1,100000.0,100000.0
+Ecommerce Data Analytics Platform,1,1,0.0,
+Ecommerce Delivery Locker Services,1,1,9000000.0,9000000.0
+Ecommerce Discount & Cashback Coupons Platform,1,1,3700000.0,3700000.0
+Ecommerce Logistics,1,1,85000000.0,85000000.0
+Ecommerce Logistics Provider,1,1,5000000.0,5000000.0
+Ecommerce Marketing Software Platform,1,1,500000.0,500000.0
+Ecommerce Marketplace,1,1,500000000.0,500000000.0
+Ecommerce Platform,1,1,50000000.0,50000000.0
+Ecommerce Platform Solutions,1,1,0.0,
+Ecommerce Product Recommendation Platform,1,1,0.0,
+Ecommerce Product Search Engine,1,1,150000.0,150000.0
+Ecommerce Related Software Product Platform,1,1,0.0,
+Ecommerce Returns Etailer,1,1,0.0,
+Ecommerce Website Creation Saas Platform,1,1,0.0,
+Ed-Tech Platform,1,1,0.0,
+Education Content Etailer,1,1,0.0,
+Education Content Provider,1,1,27000000.0,27000000.0
+Education Marketplace,1,1,0.0,
+Educational Board Games,1,1,168000.0,168000.0
+Efficient Energy Management Platform,1,1,16600000.0,16600000.0
+Elearning Platform,1,1,0.0,
+Electric Bike Manufacturers,1,1,1200000.0,1200000.0
+Electronic Goods Recycling Service,1,1,0.0,
+Employee Onboarding & Orientation Platform,1,1,400000.0,400000.0
+End To End Reverse Logistics Solution Platform,1,1,2000000.0,2000000.0
+End-To-End Lending Platform,1,1,8000000.0,8000000.0
+End-To-End Logistics Platform,1,1,10000000.0,10000000.0
+Energy,1,1,26000000.0,26000000.0
+Energy & Environment Online Marketplace,1,1,0.0,
+Energy Saving Solutions Provider,1,1,0.0,
+Engineering Innovations,1,1,0.0,
+Engineering Services Company,1,1,20000000.0,20000000.0
+Enterprise Communication Platform,1,1,0.0,
+Enterprise Marketing Automation Platform,1,1,500000.0,500000.0
+Entertainment,1,1,2500000.0,2500000.0
+Ethnic Beverages Manufacturer,1,1,30000000.0,30000000.0
+Ethnic Product Ecommerce,1,1,18000000.0,18000000.0
+Ethnic/ Traditional Fashion Store,1,1,0.0,
+Event Ticketing Platform,1,1,490000.0,490000.0
+Event Venue Booking Platform,1,1,0.0,
+Exam Preparation Platform,1,1,220000.0,220000.0
+Exclusive Platform For Doctors & Healthcare Professionals,1,1,700000.0,700000.0
+Express Local Delivery Platform,1,1,0.0,
+Extra Curricular Activities Marketplace App,1,1,0.0,
+F&B Sector Mobile Payment Platform,1,1,1600000.0,1600000.0
+Fashion,1,1,0.0,
+Fashion And Apparel,1,1,1800000.0,1800000.0
+Fashion Ecommerce,1,1,3500000.0,3500000.0
+Fashion Ecommerce Store,1,1,5000000.0,5000000.0
+Fashion Jewelry And Accessories E-Tailer,1,1,15000000.0,15000000.0
+Fashion Search & Review Platform,1,1,0.0,
+Fast Food Chain Franchisee,1,1,630000.0,630000.0
+Fiinance,1,1,2800000.0,2800000.0
+Financial Inclusion Platform,1,1,25000000.0,25000000.0
+Financial Markets Software,1,1,400000.0,400000.0
+Financial Products Lead Generation Platform,1,1,0.0,
+Financial Services Platform,1,1,11000000.0,11000000.0
+Financial Services Portal,1,1,3000000.0,3000000.0
+Fine Dining Restaurant Chain,1,1,30000000.0,30000000.0
+Fintech Startup Incubation Platform,1,1,100000.0,100000.0
+Fitness Marketplace,1,1,1000000.0,1000000.0
+Fitness Tracking Management Solutions,1,1,13400000.0,13400000.0
+Flat Rental Mobile App,1,1,2500000.0,2500000.0
+Food Customer Analytics Platform,1,1,300000.0,300000.0
+Food Discovery & Delivery Mobile App,1,1,7500000.0,7500000.0
+Food Discovery & Table Booking App,1,1,0.0,
+Food Discovery App,1,1,0.0,
+Food Logistics & Delivery,1,1,1000000.0,1000000.0
+Food Ordering & Delivery App,1,1,77000.0,77000.0
+Food Subscription Platform,1,1,10000000.0,10000000.0
+Food Tech,1,1,1000000.0,1000000.0
+Food-Tech,1,1,400000.0,400000.0
+Freight Logistics Platform,1,1,6000000.0,6000000.0
+Fund Raising Platform,1,1,100000.0,100000.0
+Fund Raising Platform For Startups,1,1,650000.0,650000.0
+Furniture And Appliances Rental Platform,1,1,0.0,
+Gesture Based Mobile Development,1,1,7700000.0,7700000.0
+Global Community For Travellers,1,1,0.0,
+Global Healthcare Products,1,1,16000000.0,16000000.0
+Gourmet Food Discovery & Delivery Platform,1,1,0.0,
+Gourmet Meals Delivery,1,1,0.0,
+Government Test Preparation Platform,1,1,400000.0,400000.0
+Grey Collar Job Board,1,1,10000000.0,10000000.0
+Grocery Delivery Platform,1,1,1000000.0,1000000.0
+Grocery Retail Mobile App,1,1,0.0,
+Gym & Fitness Studios Subscription Platform,1,1,100000.0,100000.0
+Gym Discovery Platform,1,1,0.0,
+Hasbro Toy Manufacturer,1,1,2000000.0,2000000.0
+Health And Beauty Services Marketplace,1,1,250000.0,250000.0
+Health Mobile App,1,1,470000.0,470000.0
+"Health, Wellness & Beauty Services App",1,1,0.0,
+Healthcare Consulting Platform,1,1,0.0,
+Healthcare It Solutions & Services,1,1,10000000.0,10000000.0
+Healthcare Mobile App,1,1,10200000.0,10200000.0
+Healthcare Services Discovery Platform,1,1,100000.0,100000.0
+Healthcare\\Nservice Provider,1,1,10000000.0,10000000.0
+Healthy Food Manufacturer,1,1,6000000.0,6000000.0
+Healthy Food Online Community,1,1,350000.0,350000.0
+Healthy Meals Food Delivery Platform,1,1,0.0,
+Hiring Analytics Platform,1,1,500000.0,500000.0
+Holiday Resort Chain,1,1,0.0,
+Home Cooked Food Marketplace & Delivery,1,1,2000000.0,2000000.0
+Home Cooked Food Order & Delivery Platform,1,1,2000000.0,2000000.0
+Home Design & D\\Xc3\\Xa9Cor Platform,1,1,0.0,
+Home Design & D\\Xc3\\Xa9Cor Solutions,1,1,8000000.0,8000000.0
+Home Fitting & Fixtures Marketplace,1,1,0.0,
+Home Furnishing Solutions,1,1,50000000.0,50000000.0
+"Home Healthcare Services Platform,",1,1,0.0,
+Home Improvement Service Platform,1,1,0.0,
+Home Made Food Marketplace,1,1,100000.0,100000.0
+Home Medical Care Services,1,1,37500000.0,37500000.0
+Home Rental Platform,1,1,0.0,
+Home Stay & Room Rentals Platform,1,1,200000.0,200000.0
+Hotel Aggregator & Booking Platform,1,1,250000.0,250000.0
+Hotel Booking App,1,1,500000.0,500000.0
+Hotel Mobile Crm Software Platform,1,1,0.0,
+Hyper Local Logistics Platform,1,1,11000000.0,11000000.0
+Hyper-Local Ecommerce,1,1,16000000.0,16000000.0
+Hyper-Local Grocery Delivery Platform,1,1,120000000.0,120000000.0
+Hyper-Local Online Services,1,1,5000000.0,5000000.0
+Hyperlocal Deals Marketplace,1,1,50000000.0,50000000.0
+Hyperlocal Delivery Services,1,1,9000000.0,9000000.0
+Hyperlocal Electronics Repair Service,1,1,630000.0,630000.0
+Hyperlocal Food & Grocery Store,1,1,1300000.0,1300000.0
+Hyperlocal Goods Marketplace,1,1,0.0,
+Hyperlocal Grocery App,1,1,500000.0,500000.0
+Hyperlocal Healthcare Product Delivery Service Provider,1,1,1000000.0,1000000.0
+Hyperlocal Logistics Service,1,1,10000000.0,10000000.0
+Hyperlocal Logistics Service Provider,1,1,0.0,
+"Hyperlocal Maintenance, Repair & Cleaning Services",1,1,2400000.0,2400000.0
+Hyperlocal Mobile Marketplace,1,1,5500000.0,5500000.0
+Hyperlocal Mobile Services Marketplace,1,1,1600000.0,1600000.0
+Hyperlocal On-Demand Household Services Platform,1,1,0.0,
+Hyperlocal Online Home Services Provider,1,1,0.0,
+Hyperlocal Online Services Platform,1,1,0.0,
+Hyperlocal Shopping App,1,1,20000000.0,20000000.0
+Hyperlocal\\Xc2\\Xa0 Grocery Delivery Service,1,1,4000000.0,4000000.0
+Indian Ethnic Crafts Etailer,1,1,1200000.0,1200000.0
+Indoor Navigation & Analytics Solutions,1,1,0.0,
+Industrial Supplies B2B Ecommerce,1,1,100000.0,100000.0
+Industrial Tools Marketplace,1,1,9200000.0,9200000.0
+Industrial Toons Marketplace,1,1,0.0,
+Innovative Water Solutions,1,1,1200000.0,1200000.0
+Intelligent Data Analytics,1,1,0.0,
+Interactive Educational Games,1,1,400000.0,400000.0
+Interactive\\Xc2\\Xa0 How-To Guides,1,1,900000.0,900000.0
+International Hiring Platform,1,1,200000.0,200000.0
+Internet Network Infrastructure Services,1,1,500000.0,500000.0
+Intra-City Logistics Service,1,1,500000.0,500000.0
+Investment,1,1,31000000.0,31000000.0
+Investment Management Platform,1,1,0.0,
+Iot,1,1,18000000.0,18000000.0
+Iot Energy Management Analytics Platform,1,1,0.0,
+It / Customer Engagement Consulting,1,1,5000000.0,5000000.0
+It Infrastructure & Data Center Services,1,1,13500000.0,13500000.0
+Job Board,1,1,500000.0,500000.0
+Kids Tool Kit For Innovation Platform,1,1,530000.0,530000.0
+Language Learning App,1,1,6500000.0,6500000.0
+Language Localization Cloud Platform,1,1,4000000.0,4000000.0
+Last Mile Delivery Service,1,1,7000000.0,7000000.0
+Last Mile Logistics,1,1,240000.0,240000.0
+Last Minute Hotel Booking App,1,1,1500000.0,1500000.0
+Last Minute Travel Deals Mobile Marketplace,1,1,1800000.0,1800000.0
+Lifestyle,1,1,13000000.0,13000000.0
+Lifestyle Ecommerce Portal,1,1,5000000.0,5000000.0
+Live Video Streaming App,1,1,0.0,
+Local Mobile Os,1,1,0.0,
+Location Based App,1,1,1000000.0,1000000.0
+Location Based Engagement & Rewards Platform,1,1,0.0,
+Location Based Nightlife Recommendation\\Xc2\\Xa0 Platform,1,1,77000.0,77000.0
+Logistics Automation Platform,1,1,0.0,
+Logistics Intelligence,1,1,180000.0,180000.0
+Logistics Service Platform,1,1,245000.0,245000.0
+Logistics Service Provider Marketplace,1,1,2000000.0,2000000.0
+Logistics Services Provider,1,1,30000000.0,30000000.0
+Logistics Solution Provider,1,1,137000000.0,137000000.0
+Loyalty Programs & Reward Points,1,1,500000.0,500000.0
+Luxury Apparel Rental,1,1,0.0,
+Luxury Goods\\Xc2\\Xa0 Shopping Platform,1,1,900000.0,900000.0
+Luxury Label,1,1,1000000.0,1000000.0
+Luxury Rental Homes,1,1,12750000.0,12750000.0
+Machine Learning Platform,1,1,0.0,
+Marketing / Advertising Automation Platform,1,1,1000000.0,1000000.0
+Marketplace App For Bangkok,1,1,1900000.0,1900000.0
+Material Collection & Recycling,1,1,4000000.0,4000000.0
+Media,1,1,535000.0,535000.0
+Medical Consultation & Doctor Appointment Booking Platform,1,1,500000.0,500000.0
+Medical Tech Instruments,1,1,2400000.0,2400000.0
+Micro Finance Platform,1,1,8600000.0,8600000.0
+Micro-Brewery,1,1,1530000.0,1530000.0
+Mobile Accessories Online Store,1,1,3000000.0,3000000.0
+Mobile Advertising Platform,1,1,100000000.0,100000000.0
+Mobile App Based Loan Disbursement Platform,1,1,1500000.0,1500000.0
+Mobile App Development,1,1,12000000.0,12000000.0
+Mobile App Testing Platform,1,1,1200000.0,1200000.0
+Mobile Application Developer,1,1,0.0,
+Mobile Based Pos Solution,1,1,25000000.0,25000000.0
+Mobile Car Servicing Appointment App,1,1,500000.0,500000.0
+Mobile Chat Based Concierge Service,1,1,1600000.0,1600000.0
+Mobile Commerce For Farmers,1,1,4000000.0,4000000.0
+Mobile Commerce Platform,1,1,234000.0,234000.0
+Mobile Compression Software,1,1,350000.0,350000.0
+360-Degree View Creating Platform,1,1,0.0,
+Mobile Fitness Marketplace,1,1,0.0,
+Mobile Food Ordering App,1,1,0.0,
+Mobile Game Development & Design Platform,1,1,1000000.0,1000000.0
+Mobile Growth Hacking\\Nplatform,1,1,500000.0,500000.0
+Mobile Health Tech,1,1,0.0,
+Mobile Laundry Cleaning Service,1,1,2000000.0,2000000.0
+Mobile Learning Solutions,1,1,300000.0,300000.0
+Mobile Marketing Automation Platform,1,1,4250000.0,4250000.0
+Mobile Messaging Assistant App,1,1,2500000.0,2500000.0
+Mobile Only Shopping Assistant,1,1,1000000.0,1000000.0
+Mobile Payment Software Platform,1,1,1000000.0,1000000.0
+Mobile Payments App,1,1,6000000.0,6000000.0
+Mobile Point Of Sale Payment Solution,1,1,25000000.0,25000000.0
+Mobile Point Of Sale Solutions,1,1,2500000.0,2500000.0
+Mobile Services Marketplace,1,1,25000000.0,25000000.0
+Mobile Social Network,1,1,250000.0,250000.0
+Mobile Wallet,1,1,6600000.0,6600000.0
+Mobile-Only Tasks Marketplace,1,1,15000000.0,15000000.0
+Modular Furnishings Marketplace,1,1,3500000.0,3500000.0
+Movie-On-Demand Platform,1,1,350000.0,350000.0
+Multi-Sport Program For Preschoolers,1,1,0.0,
+Multilingual Test Preparation Platform,1,1,770000.0,770000.0
+Music Streaming App,1,1,100000000.0,100000000.0
+Music Streaming Mobile App,1,1,0.0,
+Mutual Fund Investing Platform,1,1,2500000.0,2500000.0
+Nanotechnology,1,1,600000.0,600000.0
+Nbfc,1,1,27799000.0,27799000.0
+New Curation Mobile App,1,1,150000.0,150000.0
+Nightlife Discovery Mobile App,1,1,150000.0,150000.0
+Non Profit Organization To Alleviate Poverty,1,1,315000.0,315000.0
+Nonbanking Finance Company,1,1,3000000.0,3000000.0
+Numerical Computing & Data Science Platform,1,1,600000.0,600000.0
+Off-Grid Solar Power,1,1,40000000.0,40000000.0
+Offline Tea Chain,1,1,1000000.0,1000000.0
+On Demand Beauty Services Platform,1,1,0.0,
+On Demand Cleaning & Fixing Services,1,1,0.0,
+On Demand Laundry Service Platform,1,1,0.0,
+On Demand Laundry Services App,1,1,110000.0,110000.0
+On Demand Mobile App Developer,1,1,100000.0,100000.0
+On-Demand App Based Professional Service Provider,1,1,1000000.0,1000000.0
+On-Demand Beauty Service,1,1,400000.0,400000.0
+On-Demand Beauty Services,1,1,0.0,
+On-Demand Business Messaging,1,1,200000.0,200000.0
+On-Demand Car Services App,1,1,0.0,
+On-Demand Delivery Logistics,1,1,1300000.0,1300000.0
+On-Demand Delivery Service,1,1,310000.0,310000.0
+On-Demand Handyman Services,1,1,0.0,
+On-Demand Healthcare Marketplace,1,1,300000.0,300000.0
+On-Demand Home Beauty And Wellness Portal,1,1,0.0,
+On-Demand Laundry & Dry Cleaning App,1,1,0.0,
+On-Demand Local Logistics Provider,1,1,0.0,
+On-Demand Logistics Service,1,1,0.0,
+On-Demand Maids Service Provider,1,1,150000.0,150000.0
+On-Demand Service Marketplace,1,1,2000000.0,2000000.0
+On-Demand Washing & Dry-Cleaning,1,1,100000.0,100000.0
+Ondemand\\Nmobile Handyman Services,1,1,1200000.0,1200000.0
+Online & Mobile Classified Listings,1,1,60000000.0,60000000.0
+Online & Mobile Grocery Store,1,1,50000000.0,50000000.0
+Online / Mobile Customer Support,1,1,50000000.0,50000000.0
+Online And Tv Shopping Marketplace,1,1,52000000.0,52000000.0
+Online Apparels Fashion Brand,1,1,0.0,
+Online Art Marketplace,1,1,200000.0,200000.0
+Online Branded Furniture Etailer,1,1,5000000.0,5000000.0
+Online Budget Hotel Booking Service,1,1,6000000.0,6000000.0
+3D Printer Manufacturer,1,1,3000000.0,3000000.0
+Online Bus & Cab Ticketing Platform,1,1,0.0,
+Online Car Portal,1,1,0.0,
+Online Car Rental Affiliates,1,1,100000.0,100000.0
+Online Certification Courses,1,1,15000000.0,15000000.0
+Online City & Lifestyle Guide,1,1,150000.0,150000.0
+Online Classifieds,1,1,150000000.0,150000000.0
+Online Classifieds & Listings,1,1,28000000.0,28000000.0
+Online Coffee Delivery Platform,1,1,300000.0,300000.0
+Online Comparison Engine,1,1,10000000.0,10000000.0
+Online Consumer Lending Platform,1,1,1000000.0,1000000.0
+Online Content Platform For Women,1,1,2000000.0,2000000.0
+Online Counselling And Psychological Support Platform,1,1,400000.0,400000.0
+Online Coupon & Comparison Platform,1,1,500000.0,500000.0
+Online Curated Holiday Package Bookings,1,1,0.0,
+Online Diagnostic Tests Marketplace,1,1,156000.0,156000.0
+Online Ed-Tech Platform,1,1,1000000.0,1000000.0
+Online Education,1,1,572000.0,572000.0
+Online Education Information Platform,1,1,1000000.0,1000000.0
+Accounting,1,1,5000000.0,5000000.0
+Activity Based Social Network,1,1,0.0,
+Online Fashion Aggregator,1,1,250000.0,250000.0
+Online Fashion Video Portal,1,1,1000000.0,1000000.0
+Online Finance Lending Platform,1,1,10000000.0,10000000.0
+Online Financial Services,1,1,60000000.0,60000000.0
+Online Food Community Platform,1,1,500000.0,500000.0
+Advertising & Marketing Community Networking Platform,1,1,1000000.0,1000000.0
+Online Food Ordering,1,1,16500000.0,16500000.0
+Online Food Ordering & Delivery,1,1,600000.0,600000.0
+"Advertising, Marketing",1,1,6000000.0,6000000.0
+Aerospace,1,1,50000000.0,50000000.0
+Online Food Ordering Marketplace,1,1,150000.0,150000.0
+Online Food-Tech Platform,1,1,470000.0,470000.0
+Online Freight Services Aggregator,1,1,25000000.0,25000000.0
+Online Furnishing\\Necommerce,1,1,50000000.0,50000000.0
+Online Furniture Ecommerce,1,1,0.0,
+Online Furniture Marketplace,1,1,20000000.0,20000000.0
+"Online Furniture, Home Appliances Rental Platform",1,1,2000000.0,2000000.0
+Online Gourmet Food Marketplace,1,1,0.0,
+Online Grocer,1,1,10000000.0,10000000.0
+Online Grocers,1,1,320000.0,320000.0
+Affordable Education,1,1,650000.0,650000.0
+Online Grocery Store,1,1,0.0,
+Online Health & Wellness Platform,1,1,1150000.0,1150000.0
+Affordable Hotel Booking Online,1,1,5000000.0,5000000.0
+Online Home D\\Xc3\\Xa9Cor,1,1,1000000.0,1000000.0
+Online Home D\\Xc3\\Xa9Cor Marketplace,1,1,100000000.0,100000000.0
+Online Homeopathy Clinic,1,1,6000000.0,6000000.0
+Online Hotel Booking,1,1,1000000.0,1000000.0
+Online Identity Verification Services Platform,1,1,0.0,
+Online Income Tax Filing Platform,1,1,0.0,
+Online Insurance Aggregator,1,1,12000000.0,12000000.0
+Online Insurance Distribution Platform,1,1,2000000.0,2000000.0
+Online Interior Designing Platform,1,1,400000.0,400000.0
+Online Jewellery Etailer,1,1,455000.0,455000.0
+Online Jewelry Store,1,1,600000.0,600000.0
+Online Job Skills Showcase,1,1,270000.0,270000.0
+Online Kitchen Furniture,1,1,1250000.0,1250000.0
+Online Learning Platform,1,1,4000000.0,4000000.0
+Online Lending Marketplace,1,1,0.0,
+Online Lingerie Marketplace,1,1,40000000.0,40000000.0
+Online Lingerie Platform,1,1,0.0,
+Online Loans Marketplace,1,1,320000.0,320000.0
+Affordable Personal Healthcare Products,1,1,0.0,
+Agtech,1,1,140000000.0,140000000.0
+Online Marketplace For Chef Meals,1,1,0.0,
+Online Marketplace For Industrial Goods,1,1,0.0,
+Online Marketplace For Photographers,1,1,600000.0,600000.0
+Online Meal-Booking Platform For Train Travelers,1,1,0.0,
+Online Meat Ordering Platform,1,1,1000000.0,1000000.0
+Online Media Publication,1,1,0.0,
+Online Medical Diagnostic,1,1,150000.0,150000.0
+Online Movie Review Platform,1,1,150000.0,150000.0
+Online News Media,1,1,0.0,
+Online Office Rental,1,1,0.0,
+Online P2P Lending Marketplace,1,1,0.0,
+Ai,1,1,0.0,
+Online Pharmacy,1,1,50000000.0,50000000.0
+Online Pharmacy & Drug Db,1,1,6000000.0,6000000.0
+Online Policy Aggregator,1,1,40000000.0,40000000.0
+Online Printing Marketplace,1,1,250000.0,250000.0
+Online Printing Services,1,1,0.0,
+Online Product Comparison,1,1,1000000.0,1000000.0
+Online Products Discovery Platform,1,1,200000.0,200000.0
+Online Purchase Rewards App,1,1,0.0,
+Online Real Estate Marketplace,1,1,3000000.0,3000000.0
+Online Recipe Sharing Platform,1,1,0.0,
+Online Renting Platform,1,1,0.0,
+Online Reputation Management Platform,1,1,0.0,
+Online Rti Application Services,1,1,150000.0,150000.0
+Online School For Analytics Learning,1,1,3000000.0,3000000.0
+Online Security Platform,1,1,2000000.0,2000000.0
+Online Shopping Assistant Mobile App,1,1,0.0,
+Online Student & Campus Social Networking Platform,1,1,400000.0,400000.0
+Online Table Reservation,1,1,500000.0,500000.0
+Online Tailoring Services,1,1,0.0,
+Online Taxi Rental Platform,1,1,0.0,
+Online Tiffin Service Aggregator,1,1,0.0,
+Online Travel Marketplace,1,1,8000000.0,8000000.0
+Online Travel Planning,1,1,0.0,
+Online User Engagement Platform,1,1,0.0,
+Online Vehicle Spare Parts Etailer,1,1,460000.0,460000.0
+Online Wedding Marketplace,1,1,20000000.0,20000000.0
+Order Fulfillment Saas Platform,1,1,0.0,
+Organic Food Ecommerce,1,1,1000000.0,1000000.0
+Organic Food Etailer,1,1,0.0,
+Algorithmic Match Making Platform,1,1,0.0,
+P2P Payments Platform,1,1,0.0,
+P2P Pre-Owned Goods Marketplace,1,1,0.0,
+Parents & Kids Online Platform,1,1,0.0,
+Parents Focused Web Content,1,1,500000.0,500000.0
+Payment Services Platform,1,1,0.0,
+Payment Solutions Platform,1,1,4850000.0,4850000.0
+Payments Solution Platform,1,1,25000000.0,25000000.0
+Alternate Mobile Monetization Platform,1,1,5000000.0,5000000.0
+Peer To Peer Lending Platform,1,1,250000.0,250000.0
+Peer-To-Peer Money Transfer & Recharge App,1,1,70000000.0,70000000.0
+Performance Based Wholesale Marketplace,1,1,0.0,
+Performance Optimization Platform For Athletes,1,1,3000000.0,3000000.0
+Personal Diagnostic Mobile App,1,1,150000.0,150000.0
+Personalized Stock Intelligence Platform,1,1,0.0,
+Personalized Styling Platform,1,1,1000000.0,1000000.0
+Personalized Wish List Creator App,1,1,50000.0,50000.0
+Photographer Online Search & Booking Platform,1,1,2200000.0,2200000.0
+Physical Storage Warehouses,1,1,300000.0,300000.0
+Picture Based Social App,1,1,100000.0,100000.0
+Picture Creation & Social Mobile App,1,1,350000.0,350000.0
+Pre-Owned Games Marketplace,1,1,0.0,
+Pre-Owned Luxury Online Apparel Seller,1,1,0.0,
+Pre-Used Apparel Shopping Mobile App,1,1,1000000.0,1000000.0
+Pre-Used Luxury Item Marketplace,1,1,0.0,
+Premium Apparel Shopping Portal,1,1,150000.0,150000.0
+Premium Beverages,1,1,2000000.0,2000000.0
+Premium Dining Lounges & Restaurants,1,1,15000000.0,15000000.0
+Prepaid Bill Manager App,1,1,0.0,
+Prepaid Mobile Bill Manager App,1,1,0.0,
+Anonymous Bulletin Board App,1,1,0.0,
+Price Comparison,1,1,165000.0,165000.0
+Private Cloud Networks Saas Platform,1,1,0.0,
+Private Coaching Centers,1,1,1500000.0,1500000.0
+Private Jet Bookings Marketplace,1,1,0.0,
+Private Jet/ Helicopter Marketplace,1,1,0.0,
+Private Label Apparel Sales,1,1,300000.0,300000.0
+Private Label Fashion Etailer,1,1,75000000.0,75000000.0
+Private Label Lingerie Ecommerce,1,1,5000000.0,5000000.0
+Probiotic Technology Products Manufacturer,1,1,550000.0,550000.0
+Product Customization Platform,1,1,0.0,
+Product Discovery & Comparison App,1,1,0.0,
+Product Discovery & Recommendation Platform,1,1,2000000.0,2000000.0
+Product Learning Platform,1,1,0.0,
+Professional Custom Creators Marketplace,1,1,250000.0,250000.0
+Professional Health Services Platform,1,1,350000.0,350000.0
+Professional Service Appointment Booking Service,1,1,400000.0,400000.0
+Professional Services Marketplace,1,1,0.0,
+Professionals & Project Search Marketplace,1,1,500000.0,500000.0
+Proximity Marketing & Mobile Advertising Platform,1,1,80000.0,80000.0
+Psychometric Test Online Software,1,1,0.0,
+Public Commute Helper App,1,1,450000.0,450000.0
+Publishing,1,1,4300000.0,4300000.0
+Qsr & Online Delivery Portal,1,1,500000.0,500000.0
+Qsr Chain,1,1,30000000.0,30000000.0
+Qsr Restaurant Chain,1,1,160000.0,160000.0
+Quick Service Restaurant & Online Delivery,1,1,385000.0,385000.0
+Quick Service Restaurant Chain,1,1,1600000.0,1600000.0
+Rail Ticket Confirmation Predictor,1,1,0.0,
+Railways Information Mobile App,1,1,0.0,
+Raw Meat & Ready To Eat Food Etailer,1,1,77000.0,77000.0
+Ready To Cook Packaged Foods,1,1,6000000.0,6000000.0
+Api Workflow Platform,1,1,1000000.0,1000000.0
+Real Estate Advisory,1,1,6000000.0,6000000.0
+Real Estate Broker Network App,1,1,1000000.0,1000000.0
+Real Estate Broker Platform App,1,1,350000.0,350000.0
+Real Estate Focused Tech Platform,1,1,0.0,
+Real Estate Insights Platform,1,1,0.0,
+Real Estate Intelligence Platform,1,1,3000000.0,3000000.0
+Real Estate Mobile Crm,1,1,2950000.0,2950000.0
+Real Estate Rating & Analysis,1,1,5000000.0,5000000.0
+Real-Time Stock Data Platform,1,1,235000.0,235000.0
+Reality,1,1,1000000.0,1000000.0
+Renewable Energy Solutions,1,1,500000.0,500000.0
+Rental Accommodation Search Platform,1,1,10000000.0,10000000.0
+Rental Accomodation Finder,1,1,0.0,
+App Analytics Platform,1,1,500000.0,500000.0
+Restaurant Customer Engagement Platform,1,1,2300000.0,2300000.0
+Restaurant Discount App,1,1,400000.0,400000.0
+Restaurant Management Platform,1,1,350000.0,350000.0
+Restaurant Ratings & Reviews Platform,1,1,60000000.0,60000000.0
+Restaurant Reservation App,1,1,0.0,
+Restaurant Reservation Platform,1,1,3000000.0,3000000.0
+Restaurant Reviews,1,1,25000000.0,25000000.0
+Retail,1,1,1600000.0,1600000.0
+Reward Points Mobile App,1,1,0.0,
+Ride Sharing Platform,1,1,190000.0,190000.0
+Ridesharing Mobile App,1,1,130000.0,130000.0
+Robotic Program Learning,1,1,250000.0,250000.0
+Rooftop Solar Plants,1,1,0.0,
+App Based Bus Pooling Services,1,1,20000000.0,20000000.0
+Saas Product Intelligence Platform,1,1,15000000.0,15000000.0
+"Saas, Ecommerce",1,1,3500000.0,3500000.0
+Sales & Productivity Software,1,1,12500000.0,12500000.0
+Science Learning App,1,1,0.0,
+Scientific Horoscope Online Assistance Platform,1,1,0.0,
+Self Driven Car Rental,1,1,0.0,
+Self Driven Rental Car Platform,1,1,2000000.0,2000000.0
+Self-Driven Car Rental,1,1,5000000.0,5000000.0
+Self-Driven Vehicle Rental,1,1,11000000.0,11000000.0
+Self-Storage Spaces,1,1,0.0,
+Selfie Mobile App,1,1,0.0,
+Service-On-Demand Mobile App,1,1,0.0,
+App Based Fitness Coaching,1,1,0.0,
+Services Platform,1,1,50000000.0,50000000.0
+Skill Training & Placement Platform,1,1,0.0,
+Skill Training Startup,1,1,1500000.0,1500000.0
+Small Business Financing (Nbfc),1,1,40000000.0,40000000.0
+Payments Solution Provider,1,1,0.0,
+Smart Safety Wearable Devices,1,1,250000.0,250000.0
+Smartwatch Maker,1,1,500000.0,500000.0
+Social Fitness Platform,1,1,0.0,
+Social Learning Platform,1,1,0.0,
+App Security\\Xc2\\Xa0 Testing Platform,1,1,500000.0,500000.0
+Social Network,1,1,0.0,
+Social Network For Artists,1,1,120000.0,120000.0
+Social Platform For Traders And Investors,1,1,100000.0,100000.0
+Architectural Design & Consulting,1,1,500000.0,500000.0
+Solar Power Solutions Company,1,1,2000000.0,2000000.0
+Solar Products And Services Marketplace,1,1,0.0,
+Spa & Salon Management Software,1,1,6000000.0,6000000.0
+Spam Call Block App,1,1,0.0,
+Speech Recognition Solutions,1,1,0.0,
+Splitting Bills Mobile App,1,1,0.0,
+Sports Education Platform,1,1,2000000.0,2000000.0
+Sports Management & Physical Education Business,1,1,10000000.0,10000000.0
+Startup Analytics Platform,1,1,3500000.0,3500000.0
+Startup Focused Online Publisher,1,1,0.0,
+Startup Funding Marketplace,1,1,0.0,
+Startup Funding Platform,1,1,10000000.0,10000000.0
+Stock Market Portal,1,1,0.0,
+Storytelling,1,1,0.0,
+Structural & Civil Engg Service Automation,1,1,1000000.0,1000000.0
+Study Material Marketplace,1,1,205000.0,205000.0
+Subscription Based Online Grocery Platform,1,1,100000.0,100000.0
+Supply Chain & Logistics Solutions,1,1,10000000.0,10000000.0
+Sustainable Agri-Inputs Firm,1,1,0.0,
+Talent Exchange & Talent Services Marketplace,1,1,0.0,
+Talent Platform For Fashion Professionals,1,1,0.0,
+Taxi Rental Platform,1,1,500000.0,500000.0
+Teacher Empowerment Platform,1,1,0.0,
+Artificial Intelligence,1,1,38080000.0,38080000.0
+Tech Enabled Ac Bus Service,1,1,0.0,
+Tech Enabled Logistics Platform,1,1,500000.0,500000.0
+Tech Platform For Property Brokers,1,1,785000.0,785000.0
+Tech Recruitment Platform,1,1,7500000.0,7500000.0
+Tech-Enabled Learning,1,1,0.0,
+Tech-Enabled Rural Healthcare Services,1,1,0.0,
+Artificial Intelligence Ecommerce Chatbot,1,1,0.0,
+Tele-Shopping / Ecommerce,1,1,21500000.0,21500000.0
+Test Automation Saas Platform,1,1,600000.0,600000.0
+Artificial Intelligence Platform,1,1,750000.0,750000.0
+Artist / Designer Marketplace,1,1,0.0,
+Transportation & Logistics Platform,1,1,5600000.0,5600000.0
+Travel Community Platform,1,1,0.0,
+Travel Destination Discovery Platform,1,1,100000.0,100000.0
+Travel Entertainment,1,1,2200000.0,2200000.0
+Travel Guide Mobile App,1,1,0.0,
+Travel Information Portal,1,1,15000000.0,15000000.0
+Travel Search Engine,1,1,0.0,
+Asset Financing Platform,1,1,1100000.0,1100000.0
+Truck Aggregator & Logistics Service,1,1,0.0,
+Trucking Logistic Operations,1,1,10000000.0,10000000.0
+Auto Insurance Online Platform,1,1,500000.0,500000.0
+Us Ticketing And Fleet Management Platform,1,1,0.0,
+Used Bikes Marketplace,1,1,15000000.0,15000000.0
+Auto Rickshaw Based Logistics,1,1,1000000.0,1000000.0
+Used Gadgets Buy / Refurbishing,1,1,1000000.0,1000000.0
+Used Two-Wheeler Marketplace,1,1,0.0,
+Used Vehicle Marketplace,1,1,16000000.0,16000000.0
+Used Vehicles Marketplace,1,1,15000000.0,15000000.0
+User Engagment & Analytics Platform,1,1,9600000.0,9600000.0
+Usiness Expense Management,1,1,500000.0,500000.0
+Video,1,1,2000000.0,2000000.0
+Video Advertisement Platform,1,1,500000.0,500000.0
+Video Games,1,1,1300000.0,1300000.0
+Video Intelligence Platform,1,1,1000000.0,1000000.0
+Video Streaming,1,1,120000.0,120000.0
+Viral Content Web Platform,1,1,4000000.0,4000000.0
+Virtual Health Consultation App,1,1,1200000.0,1200000.0
+Virtual Reality Activity Based Learning Platform,1,1,200000.0,200000.0
+Virtual Reality Headset Creator,1,1,180000.0,180000.0
+"Virtual Reality, 3D Simulation And Stereoscopic Products",1,1,800000.0,800000.0
+Visual Blogging Platform,1,1,600000.0,600000.0
+Visual Search And Discovery Platform,1,1,1000000.0,1000000.0
+Voice Call Incentivization Mobile App,1,1,0.0,
+Auto Rickshaw Based Services,1,1,5000000.0,5000000.0
+Waste Management Solutions,1,1,160000.0,160000.0
+Wealth Management Platform,1,1,1500000.0,1500000.0
+Web Content Publishing,1,1,200000.0,200000.0
+Wedding Planning Platform,1,1,410000.0,410000.0
+Wedding Venues & Vendors Marketplace,1,1,1000000.0,1000000.0
+Weight Management Service,1,1,0.0,
+Wifi \Xe2\X80\X93 First Cloud Communication Platform,1,1,0.0,
+Women Ethnic Wear\\Xc2\\Xa0 Online Marketplace,1,1,34000000.0,34000000.0
+Women Lifestyle Marketplace,1,1,0.0,
+Womens Fashion Wear Portal,1,1,0.0,
+Workforce Management Software,1,1,550000.0,550000.0
+\\Xc2\\Xa0Casual Dining Restaurant Chain,1,1,0.0,
+\\Xc2\\Xa0Contact Center Software Platform,1,1,0.0,
+\\Xc2\\Xa0Fashion Info Aggregator App,1,1,0.0,
+\\Xc2\\Xa0News Aggregator Mobile App,1,1,0.0,
+\\Xc2\\Xa0Online Grocery Delivery,1,1,0.0,
+\\Xc2\\Xa0Online Jewellery Store,1,1,0.0,
+\\Xc2\\Xa0Online Study Notes Marketplace,1,1,0.0,
+\\Xc2\\Xa0Pre-School Chain,1,1,0.0,
+\\Xc2\\Xa0Premium Loyalty Rewards Point Management,1,1,0.0,
+\\Xc2\\Xa0Warranty Programs Service Administration,1,1,0.0,
+Smart Report Cards For Schools,1,1,0.0,

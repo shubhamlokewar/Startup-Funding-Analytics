@@ -1,0 +1,11 @@
+Column,Data_Type,Non_Null_Count,Missing_Count,Unique_Values
+Sr No,int64,3044,0,3044
+Date dd/mm/yyyy,str,3044,0,1035
+Startup Name,str,3044,0,2459
+Industry Vertical,str,2873,171,821
+SubVertical,str,2108,936,1942
+City  Location,str,2864,180,112
+Investors Name,str,3020,24,2412
+InvestmentnType,str,3040,4,55
+Amount in USD,str,2084,960,471
+Remarks,str,419,2625,72
